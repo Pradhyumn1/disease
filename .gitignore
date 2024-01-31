@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# React build folder (inside plant-app)
+plant-app/build/
+
+# Virtual Environment
+venv/
+env/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Image uploads
+uploads/
+
+# PL Data folder
+pl-data/
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+# You might want to remove this if you have your dependencies committed
+lib/
+vendor/
